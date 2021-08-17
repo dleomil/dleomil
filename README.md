@@ -1,4 +1,6 @@
-### E ai todo mundo! 👋
+### E ai todo mundo!   🇧🇷 ⚙️ 🏁 🔧
+
+
 
 <!--
 **dleomil/dleomil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
