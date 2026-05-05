@@ -2,7 +2,6 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dleomil&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/dleomil)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dleomil&layout=compact&langs_count=7&theme=dark)](https://github.com/dleomil)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dleomil)](https://github.com/dleomil/github-readme-stats)
 
 ##
   
