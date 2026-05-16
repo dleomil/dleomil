@@ -15,7 +15,7 @@
 
 
 
-```markdown
+
 # Daniel Leomil
 
 Head de Tecnologia e Arquitetura | Technology Strategy, IT Governance & Digital Transformation | Platform Engineering, SRE & Cloud Strategy | FinOps | IA aplicada (Agentic, Prompt Engineering, SDD)
